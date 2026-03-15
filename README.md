@@ -72,7 +72,7 @@ The dashboard allows users to **explore data interactively and identify trends q
 - 📊 **Power BI Dashboard (.pbix file)**: [Download Here]
 
   
-- 📄 **Project Presentation**: [View PPT](PASTE-YOUR-PRESENTATION-LINK) [Download Here]((https://surl.li/pzfvmc))
+- 📄 **Project Presentation**: [View PPT](PASTE-YOUR-PRESENTATION-LINK)((https://surl.li/pzfvmc))
 
 ---
 
