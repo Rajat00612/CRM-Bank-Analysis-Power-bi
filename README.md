@@ -1,7 +1,8 @@
 # 📊 CRM Bank Analysis Dashboard
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ff6fd6f0-751a-4835-9a39-8f5f9502ef2a" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8612114a-40b8-4d73-8147-b838ec4baa64" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b5f9b223-d960-431b-8353-f119821b898f" />
 **Power BI | Data Analytics | Business Intelligence Project**
-
 This project focuses on analyzing **Customer Relationship Management (CRM) data from a banking environment** to uncover insights about customer behavior, product usage, and business performance.
 
 Using **Power BI**, the raw data was transformed into an **interactive dashboard** that helps stakeholders understand key performance indicators and make data-driven decisions.
